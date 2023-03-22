@@ -1,5 +1,11 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Full stack app Ecommerce App with Admin Page and Payment Gateway
+![image](https://user-images.githubusercontent.com/79136754/226996616-04496dc3-0d6d-4991-b625-9cec4337bf4e.png)
+
+
+
+
 ## Getting Started
 
 First, run the development server:
